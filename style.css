@@ -24,6 +24,7 @@ body {
         "starter pro enterprise";
     column-gap: 1.25rem;
     justify-content: center;
+    padding-bottom: 6rem;
 }
 #header {
     grid-area: header;
